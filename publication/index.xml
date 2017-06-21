@@ -11,23 +11,39 @@
     <atom:link href="/publication/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>A Person Re-Identification System For Mobile Devices</title>
-      <link>https://llgeek.github.io/publication/person-re-identification/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <title>AccountTrade: Accountable Protocols for Big Data Trading Against Dishonest Consumers</title>
+      <link>https://llgeek.github.io/publication/accounttrade/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://llgeek.github.io/publication/person-re-identification/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
+      <guid>https://llgeek.github.io/publication/accounttrade/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Mobile visual clothing search</title>
-      <link>https://llgeek.github.io/publication/clothing-search/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <title>Social Network De-Anonymization and Privacy Inference with Knowledge Graph Model</title>
+      <link>https://llgeek.github.io/publication/osn-deanonymize-trans/</link>
+      <pubDate>Tue, 25 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://llgeek.github.io/publication/clothing-search/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
+      <guid>https://llgeek.github.io/publication/osn-deanonymize-trans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graph-based Privacy-Preserving Data Publication</title>
+      <link>https://llgeek.github.io/publication/graph-privacy/</link>
+      <pubDate>Tue, 05 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://llgeek.github.io/publication/graph-privacy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>De-anonymizing Social Networks and Inferring Private Attributes Using Knowledge Graphs</title>
+      <link>https://llgeek.github.io/publication/osn-deanonymize-conf/</link>
+      <pubDate>Mon, 04 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://llgeek.github.io/publication/osn-deanonymize-conf/</guid>
+      <description></description>
     </item>
     
   </channel>

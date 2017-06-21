@@ -24,7 +24,7 @@ html {
   font-family: 'Merriweather', serif;
   font-size: 14px;
   color: rgba(0,0,0,0.8);
-  line-height: 1.5;
+  line-height: 1.6;
 }
 @media screen and (min-width: 58em) {
   html {
@@ -77,7 +77,7 @@ h1, h2, h3, h4, h5, h6 {
   text-rendering: optimizeLegibility;
 }
 h1 {
-  font-size: 2.25rem;
+  font-size: 2rem;
 }
 h2 {
   margin-top: 1rem;
@@ -266,6 +266,7 @@ blockquote p:last-child {
 }
 
 #profile .portrait-title h2 {
+  font-family: Times;
   font-size: 1.5em;
   font-weight: 300;
   color: #000000;
@@ -273,6 +274,7 @@ blockquote p:last-child {
 }
 
 #profile .portrait-title h3 {
+  font-family: Times;
   font-size: 1.1em;
   font-weight: 300;
   color: #AAAAAA;
@@ -305,7 +307,7 @@ blockquote p:last-child {
 }
 
 ul.ul-interests li {
-  font-size: 0.9rem;
+  font-size: 0.95rem;
 }
 
 ul.ul-edu {
@@ -322,11 +324,11 @@ ul.ul-edu li .description p {
 }
 
 ul.ul-edu li .description p.course {
-  font-size: 0.9rem;
+  font-size: 0.95rem;
 }
 
 ul.ul-edu li .description p.institution {
-  font-size: 0.75rem;
+  font-size: 0.8rem;
   color: rgba(0,0,0,0.6);
 }
 
@@ -538,7 +540,7 @@ article {
 }
 
 .pub-list-item .pub-abstract {
-  font-size: 1rem;
+  font-size: 0.9rem;
 }
 
 .pub-list-item .pub-authors {
@@ -907,7 +909,7 @@ nav#navbar-main li {
 .navbar-default .navbar-brand {
   text-transform: uppercase;
   font-weight: bold;
-  font-size: 1.2em;
+  font-size: 1em;
   color: #2b2b2b;
 }
 

@@ -7,17 +7,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Last Updated June, 2017</copyright>
-    <lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 May 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="/publication_types/1/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Mobile visual clothing search</title>
-      <link>https://llgeek.github.io/publication/clothing-search/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <title>AccountTrade: Accountable Protocols for Big Data Trading Against Dishonest Consumers</title>
+      <link>https://llgeek.github.io/publication/accounttrade/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://llgeek.github.io/publication/clothing-search/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
+      <guid>https://llgeek.github.io/publication/accounttrade/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graph-based Privacy-Preserving Data Publication</title>
+      <link>https://llgeek.github.io/publication/graph-privacy/</link>
+      <pubDate>Tue, 05 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://llgeek.github.io/publication/graph-privacy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>De-anonymizing Social Networks and Inferring Private Attributes Using Knowledge Graphs</title>
+      <link>https://llgeek.github.io/publication/osn-deanonymize-conf/</link>
+      <pubDate>Mon, 04 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://llgeek.github.io/publication/osn-deanonymize-conf/</guid>
+      <description></description>
     </item>
     
   </channel>
