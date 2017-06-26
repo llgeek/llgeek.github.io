@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Linlin Chen @ IIT on Linlin Chen @ IIT</title>
-    <link>https://llgeek.github.io/</link>
-    <description>Recent content in Linlin Chen @ IIT on Linlin Chen @ IIT</description>
+    <title>Materials on Linlin Chen @ IIT</title>
+    <link>https://llgeek.github.io/material/</link>
+    <description>Recent content in Materials on Linlin Chen @ IIT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Linlin Chen. Last Updated: June, 2017</copyright>
-    <lastBuildDate>Wed, 21 Jun 2017 01:07:22 +0800</lastBuildDate>
-    <atom:link href="/" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Jun 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/material/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Data Privacy &amp; Security — Paper List </title>
@@ -58,42 +58,6 @@
 &lt;li&gt;Dwork, C. and Roth, A., 2014. &lt;a href=&#34;https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf&#34; target=&#34;_blank&#34;&gt;The algorithmic foundations of differential privacy&lt;/a&gt;. Foundations and Trends® in Theoretical Computer Science, 9(3–4), pp.211-407.&lt;/li&gt;
 &lt;/ol&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>AccountTrade: Accountable Protocols for Big Data Trading Against Dishonest Consumers</title>
-      <link>https://llgeek.github.io/publication/accounttrade/</link>
-      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://llgeek.github.io/publication/accounttrade/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Social Network De-Anonymization and Privacy Inference with Knowledge Graph Model</title>
-      <link>https://llgeek.github.io/publication/osn-deanonymize-trans/</link>
-      <pubDate>Tue, 25 Apr 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://llgeek.github.io/publication/osn-deanonymize-trans/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Graph-based Privacy-Preserving Data Publication</title>
-      <link>https://llgeek.github.io/publication/graph-privacy/</link>
-      <pubDate>Tue, 05 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://llgeek.github.io/publication/graph-privacy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>De-anonymizing Social Networks and Inferring Private Attributes Using Knowledge Graphs</title>
-      <link>https://llgeek.github.io/publication/osn-deanonymize-conf/</link>
-      <pubDate>Mon, 04 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://llgeek.github.io/publication/osn-deanonymize-conf/</guid>
-      <description></description>
     </item>
     
   </channel>

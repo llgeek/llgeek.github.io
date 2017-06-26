@@ -5,6 +5,42 @@
     
     <url>
     
+      <loc>https://llgeek.github.io/material/privacy-paper/</loc>
+      <lastmod>2017-06-26T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://llgeek.github.io/material/dl-book/</loc>
+      <lastmod>2017-06-26T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://llgeek.github.io/material/dl-video/</loc>
+      <lastmod>2017-06-26T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://llgeek.github.io/material/privacy-book/</loc>
+      <lastmod>2017-06-26T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://llgeek.github.io/publication/accounttrade/</loc>
       <lastmod>2017-05-01T00:00:00+00:00</lastmod>
     </url>
@@ -90,6 +126,16 @@
     
       <loc>https://llgeek.github.io/</loc>
       <lastmod>2017-06-21T01:07:22+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://llgeek.github.io/material/</loc>
+      <lastmod>2017-06-26T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
