@@ -49,6 +49,212 @@
     </item>
     
     <item>
+      <title>Deep Learning — Paper List</title>
+      <link>https://llgeek.github.io/material/dl-paper/</link>
+      <pubDate>Mon, 26 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://llgeek.github.io/material/dl-paper/</guid>
+      <description>
+
+&lt;h3 id=&#34;generative-model&#34;&gt;Generative Model&lt;/h3&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Goodfellow, I., Pouget-Abadie, J., Mirza, M., Xu, B., Warde-Farley, D., Ozair, S., Courville, A. and Bengio, Y., 2014. &lt;a href=&#34;http://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf&#34; target=&#34;_blank&#34;&gt;Generative adversarial nets&lt;/a&gt;. In Advances in neural information processing systems&lt;/li&gt;
+&lt;li&gt;Kingma, D.P. and Welling, M., 2013. &lt;a href=&#34;https://arxiv.org/pdf/1312.6114.pdf&#34; target=&#34;_blank&#34;&gt;Auto-encoding variational bayes&lt;/a&gt;. arXiv preprint arXiv:1312.6114.&lt;/li&gt;
+&lt;li&gt;Bengio, Y., Yao, L., Alain, G. and Vincent, P., 2013. &lt;a href=&#34;http://papers.nips.cc/paper/5023-generalized-denoising-auto-encoders-as-generative-models.pdf&#34; target=&#34;_blank&#34;&gt;Generalized denoising auto-encoders as generative models&lt;/a&gt;. In Advances in Neural Information Processing Systems (pp. 899-907).&lt;/li&gt;
+&lt;li&gt;Vincent, P., Larochelle, H., Bengio, Y. and Manzagol, P.A., 2008, July. &lt;a href=&#34;../DAE-ICML.pdf&#34;&gt;Extracting and composing robust features with denoising autoencoders&lt;/a&gt;. In Proceedings of the 25th international conference on Machine learning (pp. 1096-1103). ACM.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;generative-adversarial-networks&#34;&gt;Generative Adversarial Networks&lt;/h3&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Goodfellow, I., Pouget-Abadie, J., Mirza, M., Xu, B., Warde-Farley, D., Ozair, S., Courville, A. and Bengio, Y. &lt;a href=&#34;http://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf&#34; target=&#34;_blank&#34;&gt;Generative adversarial nets&lt;/a&gt;, NIPS (2014).&lt;/li&gt;
+&lt;li&gt;Goodfellow, Ian &lt;a href=&#34;https://arxiv.org/pdf/1701.00160&#34; target=&#34;_blank&#34;&gt;NIPS 2016 Tutorial: Generative Adversarial Networks&lt;/a&gt;, NIPS (2016).&lt;/li&gt;
+&lt;li&gt;Radford, A., Metz, L. and Chintala, S., &lt;a href=&#34;https://arxiv.org/pdf/1511.06434.pdf&#34; target=&#34;_blank&#34;&gt;Unsupervised representation learning with deep convolutional generative adversarial networks.&lt;/a&gt; arXiv preprint arXiv:1511.06434. (2015)&lt;/li&gt;
+&lt;li&gt;Salimans, T., Goodfellow, I., Zaremba, W., Cheung, V., Radford, A., &amp;amp; Chen, X. &lt;a href=&#34;https://papers.nips.cc/paper/6125-improved-techniques-for-training-gans.pdf&#34; target=&#34;_blank&#34;&gt;Improved techniques for training gans.&lt;/a&gt; NIPS (2016).&lt;/li&gt;
+&lt;li&gt;Chen, X., Duan, Y., Houthooft, R., Schulman, J., Sutskever, I., &amp;amp; Abbeel, P. &lt;a href=&#34;https://papers.nips.cc/paper/6399-infogan-interpretable-representation-learning-by-information-maximizing-generative-adversarial-nets.pdf&#34; target=&#34;_blank&#34;&gt;InfoGAN: Interpretable Representation Learning by Information Maximization Generative Adversarial Nets&lt;/a&gt;, NIPS (2016).&lt;/li&gt;
+&lt;li&gt;Zhao, Junbo, Michael Mathieu, and Yann LeCun. &lt;a href=&#34;https://arxiv.org/pdf/1609.03126&#34; target=&#34;_blank&#34;&gt;Energy-based generative adversarial network.&lt;/a&gt; arXiv preprint arXiv:1609.03126 (2016).&lt;/li&gt;
+&lt;li&gt;Mirza, Mehdi, and Simon Osindero. &lt;a href=&#34;https://arxiv.org/pdf/1411.1784&#34; target=&#34;_blank&#34;&gt;Conditional generative adversarial nets.&lt;/a&gt; arXiv preprint arXiv:1411.1784 (2014).&lt;/li&gt;
+&lt;li&gt;Isola, P., Zhu, J. Y., Zhou, T., &amp;amp; Efros, A. A. &lt;a href=&#34;https://arxiv.org/pdf/1611.07004&#34; target=&#34;_blank&#34;&gt;Image-to-image translation with conditional adversarial networks.&lt;/a&gt; arXiv preprint arXiv:1611.07004. (2016).&lt;/li&gt;
+&lt;li&gt;Reed, S., Akata, Z., Yan, X., Logeswaran, L., Schiele, B., &amp;amp; Lee, H. &lt;a href=&#34;http://www.jmlr.org/proceedings/papers/v48/reed16.pdf&#34; target=&#34;_blank&#34;&gt;Generative adversarial text to image synthesis.&lt;/a&gt; JMLR (2016).&lt;/li&gt;
+&lt;li&gt;Antipov, G., Baccouche, M., &amp;amp; Dugelay, J. L. &lt;a href=&#34;https://arxiv.org/pdf/1702.01983.pdf&#34; target=&#34;_blank&#34;&gt;Face Aging With Conditional Generative Adversarial Networks.&lt;/a&gt; arXiv preprint arXiv:1702.01983. (2017).&lt;/li&gt;
+&lt;li&gt;Liu, Ming-Yu, and Oncel Tuzel. &lt;a href=&#34;https://papers.nips.cc/paper/6544-coupled-generative-adversarial-networks.pdf&#34; target=&#34;_blank&#34;&gt;Coupled generative adversarial networks.&lt;/a&gt; NIPS (2016).&lt;/li&gt;
+&lt;li&gt;Denton, E.L., Chintala, S. and Fergus, R., 2015. &lt;a href=&#34;http://papers.nips.cc/paper/5773-deep-generative-image-models-using-a-laplacian-pyramid-of-adversarial-networks.pdf&#34; target=&#34;_blank&#34;&gt;Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks.&lt;/a&gt; NIPS (2015).&lt;/li&gt;
+&lt;li&gt;Dumoulin, V., Belghazi, I., Poole, B., Lamb, A., Arjovsky, M., Mastropietro, O., &amp;amp; Courville, A. &lt;a href=&#34;https://arxiv.org/pdf/1606.00704&#34; target=&#34;_blank&#34;&gt;Adversarially learned inference.&lt;/a&gt; arXiv preprint arXiv:1606.00704 (2016).&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;variational-autoencoders&#34;&gt;Variational Autoencoders&lt;/h3&gt;
+
+&lt;ol&gt;
+&lt;li&gt;D. Kingma, M. Welling, &lt;a href=&#34;https://arxiv.org/abs/1312.6114&#34; target=&#34;_blank&#34;&gt;Auto-Encoding Variational Bayes&lt;/a&gt;, ICLR, 2014&lt;/li&gt;
+&lt;li&gt;Carl Doersch, &lt;a href=&#34;https://arxiv.org/abs/1606.05908&#34; target=&#34;_blank&#34;&gt;Tutorial on Variational Autoencoders&lt;/a&gt; arXiv, 2016&lt;/li&gt;
+&lt;li&gt;Xinchen Yan, Jimei Yang, Kihyuk Sohn, Honglak Lee, &lt;a href=&#34;https://arxiv.org/abs/1512.00570&#34; target=&#34;_blank&#34;&gt;Attribute2Image: Conditional Image Generation from Visual Attributes&lt;/a&gt;, ECCV, 2016&lt;/li&gt;
+&lt;li&gt;Jacob Walker, Carl Doersch, Abhinav Gupta, Martial Hebert, &lt;a href=&#34;https://arxiv.org/abs/1606.07873&#34; target=&#34;_blank&#34;&gt;An Uncertain Future: Forecasting from Static Images using Variational Autoencoders&lt;/a&gt;, ECCV, 2016&lt;/li&gt;
+&lt;li&gt;Anh Nguyen, Jason Yosinski, Yoshua Bengio, Alexey Dosovitskiy, Jeff Clune, &lt;a href=&#34;https://arxiv.org/abs/1612.00005&#34; target=&#34;_blank&#34;&gt;Plug &amp;amp; Play Generative Networks: Conditional Iterative Generation of Images in Latent Space&lt;/a&gt;, arXiv, 2016&lt;/li&gt;
+&lt;li&gt;Alireza Makhzani, Jonathon Shlens, Navdeep Jaitly, Ian Goodfellow, Brendan Frey, &lt;a href=&#34;https://arxiv.org/abs/1511.05644&#34; target=&#34;_blank&#34;&gt;Adversarial Autoencoders&lt;/a&gt;, ICLR, 2016&lt;/li&gt;
+&lt;li&gt;Anders Boesen Lindbo Larsen, SÃ¸ren Kaae SÃ¸nderby, Hugo Larochelle, Ole Winther, &lt;a href=&#34;https://arxiv.org/abs/1512.09300&#34; target=&#34;_blank&#34;&gt;Autoencoding beyond pixels using a learned similarity metric&lt;/a&gt;, ICML, 2016&lt;/li&gt;
+&lt;li&gt;Aditya Deshpande, Jiajun Lu, Mao-Chuang Yeh, David Forsyth, &lt;a href=&#34;https://arxiv.org/abs/1612.01958&#34; target=&#34;_blank&#34;&gt;Learning Diverse Image Colorization&lt;/a&gt;, arXiv, 2016&lt;/li&gt;
+&lt;li&gt;Jiajun Lu, Aditya Deshpande, David Forsyth, &lt;a href=&#34;https://arxiv.org/abs/1612.00132&#34; target=&#34;_blank&#34;&gt;CDVAE: Co-embedding Deep Variational Auto Encoder for Conditional Variational Generation&lt;/a&gt;, arXiv, 2016&lt;/li&gt;
+&lt;li&gt;Diederik P. Kingma, Danilo J. Rezende, Shakir Mohamed, Max Welling, &lt;a href=&#34;https://arxiv.org/abs/1406.5298&#34; target=&#34;_blank&#34;&gt;Semi-Supervised Learning with Deep Generative Models&lt;/a&gt;, NIPS, 2014&lt;/li&gt;
+&lt;li&gt;Lars MaalÃ¸e, Casper Kaae SÃ¸nderby, SÃ¸ren Kaae SÃ¸nderby, Ole Winther, &lt;a href=&#34;https://arxiv.org/abs/1602.05473&#34; target=&#34;_blank&#34;&gt;Auxiliary Deep Generative Models&lt;/a&gt; arXiv, 2016&lt;/li&gt;
+&lt;li&gt;Raymond Yeh, Ziwei Liu, Dan B Goldman, Aseem Agarwala, &lt;a href=&#34;http://slazebni.cs.illinois.edu/spring17/reading_lists.html&#34; target=&#34;_blank&#34;&gt;Semantic Facial Expression Editing using Autoencoded Flow&lt;/a&gt; arXiv, 2016&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;model-compression&#34;&gt;Model Compression&lt;/h3&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Denton, Emily L., et al. &lt;a href=&#34;http://papers.nips.cc/paper/5544-exploiting-linear-structure-within-convolutional-networks-for-efficient-evaluation.pdf&#34; target=&#34;_blank&#34;&gt;&amp;ldquo;Exploiting linear structure within convolutional networks for efficient evaluation.&amp;rdquo;&lt;/a&gt; Advances in Neural Information Processing Systems. 2014.&lt;/li&gt;
+&lt;li&gt;Jin, Jonghoon, Aysegul Dundar, and Eugenio Culurciello. &lt;a href=&#34;https://arxiv.org/pdf/1412.5474v4.pdf&#34; target=&#34;_blank&#34;&gt;&amp;ldquo;Flattened convolutional neural networks for feedforward acceleration.&amp;rdquo;&lt;/a&gt; arXiv preprint arXiv:1412.5474 (2014).&lt;/li&gt;
+&lt;li&gt;Gong, Yunchao, et al. &lt;a href=&#34;https://arxiv.org/pdf/1412.6115v1.pdf&#34; target=&#34;_blank&#34;&gt;&amp;ldquo;Compressing deep convolutional networks using vector quantization.&amp;rdquo;&lt;/a&gt; arXiv preprint arXiv:1412.6115 (2014).&lt;/li&gt;
+&lt;li&gt;Han, Song, et al. &lt;a href=&#34;http://papers.nips.cc/paper/5784-learning-both-weights-and-connections-for-efficient-neural-network.pdf&#34; target=&#34;_blank&#34;&gt;&amp;ldquo;Learning both weights and connections for efficient neural network.&amp;rdquo;&lt;/a&gt; Advances in Neural Information Processing Systems. 2015.&lt;/li&gt;
+&lt;li&gt;Guo, Yiwen, Anbang Yao, and Yurong Chen. &lt;a href=&#34;https://arxiv.org/pdf/1608.04493v2.pdf&#34; target=&#34;_blank&#34;&gt;&amp;ldquo;Dynamic Network Surgery for Efficient DNNs.&amp;rdquo;&lt;/a&gt; Advances In Neural Information Processing Systems. 2016.&lt;/li&gt;
+&lt;li&gt;Gupta, Suyog, et al. &lt;a href=&#34;http://www.jmlr.org/proceedings/papers/v37/gupta15.pdf&#34; target=&#34;_blank&#34;&gt;&amp;ldquo;Deep Learning with Limited Numerical Precision.&amp;rdquo;&lt;/a&gt; ICML. 2015.&lt;/li&gt;
+&lt;li&gt;Courbariaux, Matthieu, Yoshua Bengio, and Jean-Pierre David. &lt;a href=&#34;http://papers.nips.cc/paper/5647-binaryconnect-training-deep-neural-networks-with-binary-weights-during-propagations.pdf&#34; target=&#34;_blank&#34;&gt;&amp;ldquo;Binaryconnect: Training deep neural networks with binary weights during propagations.&amp;rdquo;&lt;/a&gt; Advances in Neural Information Processing Systems. 2015.&lt;/li&gt;
+&lt;li&gt;Courbariaux, Matthieu, et al. &lt;a href=&#34;https://arxiv.org/pdf/1602.02830v3.pdf&#34; target=&#34;_blank&#34;&gt;&amp;ldquo;Binarized neural networks: Training deep neural networks with weights and activations constrained to+ 1 or-1.&amp;rdquo;&lt;/a&gt; arXiv preprint arXiv:1602.02830 (2016).&lt;/li&gt;
+&lt;li&gt;Han, Song, Huizi Mao, and William J. Dally. &lt;a href=&#34;https://arxiv.org/pdf/1510.00149v5.pdf&#34; target=&#34;_blank&#34;&gt;&amp;ldquo;Deep compression: Compressing deep neural networks with pruning, trained quantization and huffman coding.&amp;rdquo;&lt;/a&gt; arXiv preprint arXiv:1510.00149 (2015).&lt;/li&gt;
+&lt;li&gt;Iandola, Forrest N., et al. &lt;a href=&#34;https://arxiv.org/pdf/1602.07360v4.pdf&#34; target=&#34;_blank&#34;&gt;&amp;ldquo;SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and&amp;lt; 0.5 MB model size.&amp;rdquo;&lt;/a&gt; arXiv preprint arXiv:1602.07360 (2016).&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;rnn&#34;&gt;RNN&lt;/h3&gt;
+
+&lt;ol&gt;
+&lt;li&gt;R. Pascanu, T. Mikolov, and Y. Bengio, &lt;a href=&#34;http://www.jmlr.org/proceedings/papers/v28/pascanu13.pdf&#34; target=&#34;_blank&#34;&gt;On the difficulty of training recurrent neural networks&lt;/a&gt;, ICML 2013&lt;/li&gt;
+&lt;li&gt;S. Hochreiter, and J. Schmidhuber, J., &lt;a href=&#34;http://web.eecs.utk.edu/~itamar/courses/ECE-692/Bobby_paper1.pdf&#34; target=&#34;_blank&#34;&gt;Long short-term memory&lt;/a&gt;, Neural computation, 1997 9(8), pp.1735-1780&lt;/li&gt;
+&lt;li&gt;F.A. Gers, and J. Schmidhuber, J., &lt;a href=&#34;ftp://ftp.idsia.ch/pub/juergen/TimeCount-IJCNN2000.pdf&#34; target=&#34;_blank&#34;&gt;Recurrent nets that time and count&lt;/a&gt;, IJCNN 2000&lt;/li&gt;
+&lt;li&gt;K. Greff , R.K. Srivastava, J. KoutnÃ­k, B.R. Steunebrink, and J. Schmidhuber, &lt;a href=&#34;https://arxiv.org/pdf/1503.04069.pdf&#34; target=&#34;_blank&#34;&gt;LSTM: A search space odyssey&lt;/a&gt;, IEEE transactions on neural networks and learning systems, 2016&lt;/li&gt;
+&lt;li&gt;K. Cho, B. Van Merrienboer, C. Gulcehre, D. Bahdanau, F. Bougares, H. Schwenk, and Y. Bengio, &lt;a href=&#34;https://arxiv.org/pdf/1406.1078.pdf&#34; target=&#34;_blank&#34;&gt;Learning phrase representations using RNN encoder-decoder for statistical machine translation&lt;/a&gt;, ACL 2014&lt;/li&gt;
+&lt;li&gt;R. Jozefowicz, W. Zaremba, and I. Sutskever, &lt;a href=&#34;http://jmlr.org/proceedings/papers/v37/jozefowicz15.pdf&#34; target=&#34;_blank&#34;&gt;An empirical exploration of recurrent network architectures&lt;/a&gt;, JMLR 2015&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;recurrent-architectures-lstm-gru-rnn&#34;&gt;Recurrent Architectures: LSTM, GRU, RNN&lt;/h3&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Survey Papers
+
+&lt;ul&gt;
+&lt;li&gt;Lipton, Zachary C., John Berkowitz, and Charles Elkan. &lt;a href=&#34;https://arxiv.org/abs/1506.00019&#34; target=&#34;_blank&#34;&gt;A critical review of recurrent neural networks for sequence learning&lt;/a&gt;, arXiv preprint arXiv:1506.00019 (2015).&lt;/li&gt;
+&lt;li&gt;Goodfellow, Ian, Yoshua Bengio, and Aaron Courville. &lt;a href=&#34;https://www.deeplearningbook.org/contents/rnn.html&#34; target=&#34;_blank&#34;&gt;Chapter 10: Sequence Modeling: Recurrent and Recursive Nets&lt;/a&gt;. MIT Press, 2016.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Training
+
+&lt;ul&gt;
+&lt;li&gt;Semeniuta, Stanislau, Aliaksei Severyn, and Erhardt Barth. &lt;a href=&#34;https://arxiv.org/abs/1609.01704&#34; target=&#34;_blank&#34;&gt;Recurrent dropout without memory loss. &lt;/a&gt;arXiv preprint arXiv:1603.05118 (2016).&lt;/li&gt;
+&lt;li&gt;Arjovsky, Martin, Amar Shah, and Yoshua Bengio. &lt;a href=&#34;https://arxiv.org/abs/1511.06464&#34; target=&#34;_blank&#34;&gt;Unitary evolution recurrent neural networks.&lt;/a&gt; arXiv preprint arXiv:1511.06464 (2015).&lt;/li&gt;
+&lt;li&gt;Le, Quoc V., Navdeep Jaitly, and Geoffrey E. Hinton. &lt;a href=&#34;https://arxiv.org/abs/1504.00941&#34; target=&#34;_blank&#34;&gt;A simple way to initialize recurrent networks of rectified linear units.&lt;/a&gt; arXiv preprint arXiv:1504.00941 (2015).&lt;/li&gt;
+&lt;li&gt;Cooijmans, Tim, et al. &lt;a href=&#34;https://arxiv.org/abs/1603.09025&#34; target=&#34;_blank&#34;&gt;Recurrent batch normalization.&lt;/a&gt; arXiv preprint arXiv:1603.09025 (2016).&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Architectural Complexity Measures
+
+&lt;ul&gt;
+&lt;li&gt;Zhang, Saizheng, et al, &lt;a href=&#34;https://arxiv.org/abs/1602.08210&#34; target=&#34;_blank&#34;&gt;Architectural Complexity Measures of Recurrent Neural Networks. &lt;/a&gt;Advances in Neural Information Processing Systems. 2016.&lt;/li&gt;
+&lt;li&gt;Pascanu, Razvan, et al. &lt;a href=&#34;https://arxiv.org/abs/1312.6026&#34; target=&#34;_blank&#34;&gt;How to construct deep recurrent neural networks.&lt;/a&gt; arXiv preprint arXiv:1312.6026 (2013).&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;RNN Variants
+
+&lt;ul&gt;
+&lt;li&gt;Zilly, Julian Georg, et al. &lt;a href=&#34;https://arxiv.org/abs/1607.03474&#34; target=&#34;_blank&#34;&gt;Recurrent highway networks. &lt;/a&gt;arXiv preprint arXiv:1607.03474 (2016)&lt;/li&gt;
+&lt;li&gt;Chung, Junyoung, Sungjin Ahn, and Yoshua Bengio. &lt;a href=&#34;https://arxiv.org/abs/1609.01704&#34; target=&#34;_blank&#34;&gt;Hierarchical multiscale recurrent neural networks&lt;/a&gt;, arXiv preprint arXiv:1609.01704 (2016).&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Visualization
+
+&lt;ul&gt;
+&lt;li&gt;Karpathy, Andrej, Justin Johnson, and Li Fei-Fei. &lt;a href=&#34;https://arxiv.org/pdf/1506.02078.pdf&#34; target=&#34;_blank&#34;&gt;Visualizing and understanding recurrent networks.&lt;/a&gt; arXiv preprint arXiv:1506.02078 (2015).&lt;/li&gt;
+&lt;li&gt;Hendrik Strobelt, Sebastian Gehrmann, Bernd Huber, Hanspeter Pfister, Alexander M. Rush. &lt;a href=&#34;http://lstm.seas.harvard.edu/&#34; target=&#34;_blank&#34;&gt;LSTMVis: Visual Analysis for RNN&lt;/a&gt;, arXiv preprint arXiv:1606.07461 (2016).&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&#34;advanced-cnn-architectures&#34;&gt;Advanced CNN Architectures&lt;/h3&gt;
+
+&lt;ol&gt;
+&lt;li&gt;K. He, X. Zhang, S. Ren, and J. Sun, &lt;a href=&#34;https://arxiv.org/abs/1512.03385&#34; target=&#34;_blank&#34;&gt;Deep Residual Learning for Image Recognition&lt;/a&gt;, CVPR 2016&lt;/li&gt;
+&lt;li&gt;Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun, &lt;a href=&#34;https://arxiv.org/abs/1603.05027&#34; target=&#34;_blank&#34;&gt;Identity Mappings in Deep Residual Networks&lt;/a&gt;, ECCV 2016&lt;/li&gt;
+&lt;li&gt;Gao Huang, Zhuang Liu, Kilian Q. Weinberger, Laurens van der Maaten: &lt;a href=&#34;https://arxiv.org/pdf/1608.06993v3.pdf&#34; target=&#34;_blank&#34;&gt;Densely Connected Convolutional Networks&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Andreas Veit, Michael Wilber, Serge Belongie, &lt;a href=&#34;https://arxiv.org/pdf/1605.06431v2.pdf&#34; target=&#34;_blank&#34;&gt;Residual Networks Behave Like Ensembles of Relatively Shallow Networks&lt;/a&gt;, NIPS 2016&lt;/li&gt;
+&lt;li&gt;Klaus Greff, Rupesh K. Srivastava &amp;amp; JÃ¼rgen Schmidhuber, &lt;a href=&#34;https://arxiv.org/pdf/1612.07771v1.pdf&#34; target=&#34;_blank&#34;&gt;Highway and Residual Networks Learn Unrolled Iterative Estimation&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;advanced-training-techniques&#34;&gt;Advanced Training Techniques&lt;/h3&gt;
+
+&lt;ol&gt;
+&lt;li&gt;D. Kingma, and J. Ba, &lt;a href=&#34;https://arxiv.org/pdf/1412.6980.pdf&#34; target=&#34;_blank&#34;&gt;Adam: a method for stochastic optimization&lt;/a&gt;, ICLR 2015&lt;/li&gt;
+&lt;li&gt;J. Dean et al., &lt;a href=&#34;https://static.googleusercontent.com/media/research.google.com/en//archive/large_deep_networks_nips2012.pdf&#34; target=&#34;_blank&#34;&gt;Large scale distributed deep networks&lt;/a&gt;, NIPS 2012&lt;/li&gt;
+&lt;li&gt;N. Srivastava, G. Hinton, A. Krizhevsky, I. Sutskever, and R. Salakhutdinov, &lt;a href=&#34;https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf&#34; target=&#34;_blank&#34;&gt;Dropout: a simple way to prevent neural networks from overfitting&lt;/a&gt;, JMLR 2014&lt;/li&gt;
+&lt;li&gt;S. Ioffe and C. Szegedy, &lt;a href=&#34;https://arxiv.org/pdf/1502.03167v3.pdf&#34; target=&#34;_blank&#34;&gt;Batch normalization: accelerating deep network training by reducing internal covariate shift&lt;/a&gt;, ICML 2015&lt;/li&gt;
+&lt;li&gt;K. He, X. Zhang, S. Ren, and J. Sun, &lt;a href=&#34;https://arxiv.org/pdf/1502.01852v1.pdf&#34; target=&#34;_blank&#34;&gt;Delving deep into rectifiers: surpassing human-level performance on ImageNet classification&lt;/a&gt;, ICCV 2015&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;object-detection&#34;&gt;Object Detection&lt;/h3&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Girshick, Ross and Donahue, Jeff and Darrell, Trevor and Malik, Jitendra, &lt;a href=&#34;https://people.eecs.berkeley.edu/~rbg/papers/r-cnn-cvpr.pdf&#34; target=&#34;_blank&#34;&gt;Rich feature hierarchies for accurate object detection and semantic segmentation&lt;/a&gt;, CVPR 2014&lt;/li&gt;
+&lt;li&gt;He, Kaiming and Zhang, Xiangyu and Ren, Shaoqing and Sun, Jian, &lt;a href=&#34;https://arxiv.org/pdf/1406.4729v4.pdf&#34; target=&#34;_blank&#34;&gt;Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition&lt;/a&gt;, ECCV 2014&lt;/li&gt;
+&lt;li&gt;Jifeng Dai, Yi Li, Kaiming He, Jian Sun R-FCN: &lt;a href=&#34;http://papers.nips.cc/paper/6465-r-fcn-object-detection-via-region-based-fully-convolutional-networks.pdf&#34; target=&#34;_blank&#34;&gt;Object Detection via Region-based Fully Convolutional Networks &lt;/a&gt;, NIPS 2016&lt;/li&gt;
+&lt;li&gt;Girshick, Ross, &lt;a href=&#34;https://arxiv.org/pdf/1504.08083v2.pdf&#34; target=&#34;_blank&#34;&gt;Fast R-CNN&lt;/a&gt;, ICCV 2015&lt;/li&gt;
+&lt;li&gt;Ren, Shaoqing and He, Kaiming and Girshick, Ross and Sun, Jian, &lt;a href=&#34;https://arxiv.org/pdf/1506.01497v3.pdf&#34; target=&#34;_blank&#34;&gt;Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks&lt;/a&gt;, CVPR 2015&lt;/li&gt;
+&lt;li&gt;Erhan, Dumitru and Szegedy, Christian and Toshev, Alexander and Anguelov, Dragomir, &lt;a href=&#34;https://pdfs.semanticscholar.org/0674/792f5edac72b77fb1297572c15b153576418.pdf&#34; target=&#34;_blank&#34;&gt;Scalable Object Detection using Deep Neural Networks&lt;/a&gt;, CVPR 2014&lt;/li&gt;
+&lt;li&gt;Bell, Sean and Lawrence Zitnick, C and Bala, Kavita and Girshick, Ross, &lt;a href=&#34;https://arxiv.org/pdf/1512.04143v1.pdf&#34; target=&#34;_blank&#34;&gt;Inside-Outside Net: Detecting Objects in Context with Skip Pooling and Recurrent Neural Networks&lt;/a&gt;, CVPR 2016&lt;/li&gt;
+&lt;li&gt;Redmon, Joseph and Divvala, Santosh and Girshick, Ross and Farhadi, Ali, &lt;a href=&#34;http://pjreddie.com/media/files/papers/yolo.pdf&#34; target=&#34;_blank&#34;&gt;You Only Look Once: Unified, Real-Time Object Detection&lt;/a&gt;, CVPR 2016&lt;/li&gt;
+&lt;li&gt;Liu, Wei and Anguelov, Dragomir and Erhan, Dumitru and Szegedy, Christian and Reed, Scott and Fu, Cheng-Yang and Berg, Alexander C, &lt;a href=&#34;https://arxiv.org/pdf/1512.02325v5.pdf&#34; target=&#34;_blank&#34;&gt;SSD: Single Shot MultiBox Detector&lt;/a&gt;, ECCV 2016&lt;/li&gt;
+&lt;li&gt;Tsung-Yi Lin, Piotr DollÃ¡r, Ross Girshick, Kaiming He, Bharath Hariharan, Serge Belongie, &lt;a href=&#34;https://arxiv.org/pdf/1612.03144.pdf&#34; target=&#34;_blank&#34;&gt;Feature Pyramid Networks for Object Detection&lt;/a&gt;, arXiv 2016&lt;/li&gt;
+&lt;li&gt;Huang, Jonathan and Rathod, Vivek and Sun, Chen and Zhu, Menglong and Korattikara, Anoop and Fathi, Alireza and Fischer, Ian and Wojna, Zbigniew and Song, Yang and Guadarrama, Sergio and others, &lt;a href=&#34;https://arxiv.org/pdf/1611.10012v1.pdf&#34; target=&#34;_blank&#34;&gt;Speed/accuracy trade-offs for modern convolutional object detectors&lt;/a&gt;, arXiv 2016&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;adversarial-samples&#34;&gt;Adversarial Samples&lt;/h3&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Matthew D. Zeiler and Rob Fergus, &lt;a href=&#34;https://arxiv.org/abs/1311.2901&#34; target=&#34;_blank&#34;&gt;Visualizing and Understanding Convolutional Networks&lt;/a&gt;, ECCV 2014&lt;/li&gt;
+&lt;li&gt;Karen Simonyan, Andrea Vedaldi, Andrew Zisserman, &lt;a href=&#34;https://arxiv.org/abs/1312.6034&#34; target=&#34;_blank&#34;&gt;Deep Inside Convolutional Networks: Visualising Image Classification Models and Saliency Maps&lt;/a&gt;, arXiv:1312.6034v2&lt;/li&gt;
+&lt;li&gt;Alexey Dosovitskiy and Thomas Brox, &lt;a href=&#34;https://arxiv.org/abs/1506.02753&#34; target=&#34;_blank&#34;&gt;Inverting Visual Representations with Convolutional Networks&lt;/a&gt;, CVPR 2016&lt;/li&gt;
+&lt;li&gt;Anh Nguyen, Jason Yosinski, and Jeff Clune, &lt;a href=&#34;https://arxiv.org/abs/1412.1897&#34; target=&#34;_blank&#34;&gt;Deep Neural Networks are Easily Fooled: High Confidence Predictions for Unrecognizable Images&lt;/a&gt;, CVPR 2015&lt;/li&gt;
+&lt;li&gt;Christian Szegedy, et al., &lt;a href=&#34;https://arxiv.org/abs/1312.6199&#34; target=&#34;_blank&#34;&gt;Intriguing properties of neural networks&lt;/a&gt;, arXiv preprint arXiv:1312.6199v4&lt;/li&gt;
+&lt;li&gt;Seyed-Mohsen Moosavi-Dezfooli, et al, &lt;a href=&#34;https://arxiv.org/abs/1610.08401&#34; target=&#34;_blank&#34;&gt;Universal adversarial perturbations&lt;/a&gt;, arXiv preprint arXiv:1610.08401v2&lt;/li&gt;
+&lt;li&gt;Ian J. Goodfellow, et al, &lt;a href=&#34;https://arxiv.org/abs/1412.6572&#34; target=&#34;_blank&#34;&gt;Explaining and Harnessing Adversarial Examples&lt;/a&gt;, arXiv preprint arXiv:1412.6572&lt;/li&gt;
+&lt;li&gt;A. Kurakin et al., &lt;a href=&#34;https://arxiv.org/pdf/1607.02533.pdf&#34; target=&#34;_blank&#34;&gt;Adversarial examples in the physical world&lt;/a&gt;, ICLR 2017&lt;/li&gt;
+&lt;li&gt;D. Krotov and J. Hopfield, &lt;a href=&#34;https://arxiv.org/pdf/1701.00939.pdf&#34; target=&#34;_blank&#34;&gt;Dense Associative Memory is Robust to Adversarial Inputs&lt;/a&gt;, arXiv preprint arXiv:1701.00939&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Deep Learning — Tools</title>
+      <link>https://llgeek.github.io/material/dl-tool/</link>
+      <pubDate>Mon, 26 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://llgeek.github.io/material/dl-tool/</guid>
+      <description>
+
+&lt;h3 id=&#34;framework-and-models&#34;&gt;Framework and Models&lt;/h3&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;http://pytorch.org/&#34; target=&#34;_blank&#34;&gt;Pytorch&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/pytorch/vision&#34; target=&#34;_blank&#34;&gt;Pytorch Vison Dataset and Models&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/pytorch/examples&#34; target=&#34;_blank&#34;&gt;Pytorch Examples&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.tensorflow.org/&#34; target=&#34;_blank&#34;&gt;Tensorflow&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://caffe2.ai/&#34; target=&#34;_blank&#34;&gt;Caffe2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://caffe2.ai/docs/zoo.html&#34; target=&#34;_blank&#34;&gt;Caffe2 Model Zoo&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Privacy &amp; Security — Books</title>
       <link>https://llgeek.github.io/material/privacy-book/</link>
       <pubDate>Mon, 26 Jun 2017 00:00:00 +0000</pubDate>
@@ -94,6 +300,18 @@
       
       <guid>https://llgeek.github.io/publication/osn-deanonymize-conf/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://llgeek.github.io/material/research-tool/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://llgeek.github.io/material/research-tool/</guid>
+      <description>&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;http://confsearch.org/confsearch/&#34; target=&#34;_blank&#34;&gt;Computer Science Conference Search&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
     </item>
     
   </channel>
