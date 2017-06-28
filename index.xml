@@ -267,6 +267,18 @@
     </item>
     
     <item>
+      <title>Research Tools</title>
+      <link>https://llgeek.github.io/material/research-tool/</link>
+      <pubDate>Mon, 26 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://llgeek.github.io/material/research-tool/</guid>
+      <description>&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;http://confsearch.org/confsearch/&#34; target=&#34;_blank&#34;&gt;Computer Science Conference Search&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
       <title>AccountTrade: Accountable Protocols for Big Data Trading Against Dishonest Consumers</title>
       <link>https://llgeek.github.io/publication/accounttrade/</link>
       <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
@@ -300,18 +312,6 @@
       
       <guid>https://llgeek.github.io/publication/osn-deanonymize-conf/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://llgeek.github.io/material/research-tool/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://llgeek.github.io/material/research-tool/</guid>
-      <description>&lt;ol&gt;
-&lt;li&gt;&lt;a href=&#34;http://confsearch.org/confsearch/&#34; target=&#34;_blank&#34;&gt;Computer Science Conference Search&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-</description>
     </item>
     
   </channel>
