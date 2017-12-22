@@ -7,8 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Linlin Chen. Last Updated: Dec. 2017</copyright>
-    <lastBuildDate>Mon, 01 May 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Nov 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="/publication_types/1/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>VoiceMask: Anonymize and Sanitize Voice Input on Mobile Devices</title>
+      <link>https://llgeek.github.io/publication/voicemask/</link>
+      <pubDate>Thu, 30 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://llgeek.github.io/publication/voicemask/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>AccountTrade: Accountable Protocols for Big Data Trading Against Dishonest Consumers</title>
