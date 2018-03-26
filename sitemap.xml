@@ -5,6 +5,15 @@
     
     <url>
     
+      <loc>https://llgeek.github.io/publication/crowdlearning/</loc>
+      <lastmod>2018-06-11T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://llgeek.github.io/publication/voicemask/</loc>
       <lastmod>2017-11-30T00:00:00+00:00</lastmod>
     </url>
@@ -113,15 +122,6 @@
     
     <url>
     
-      <loc>https://llgeek.github.io/publication/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>https://llgeek.github.io/publication/graph-privacy/</loc>
       <lastmod>2016-04-05T00:00:00+00:00</lastmod>
     </url>
@@ -141,7 +141,7 @@
     <url>
     
       <loc>https://llgeek.github.io/publication_types/1/</loc>
-      <lastmod>2017-11-30T00:00:00+00:00</lastmod>
+      <lastmod>2018-06-11T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -190,7 +190,17 @@
     <url>
     
       <loc>https://llgeek.github.io/publication_types/</loc>
-      <lastmod>2017-11-30T00:00:00+00:00</lastmod>
+      <lastmod>2018-06-11T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://llgeek.github.io/publication/</loc>
+      <lastmod>2018-06-11T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     

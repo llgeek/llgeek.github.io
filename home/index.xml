@@ -6,9 +6,65 @@
     <description>Recent content in Homes on Linlin Chen @ IIT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; Linlin Chen. Last Updated: Jan. 2018</copyright>
+    <copyright>&amp;copy; Linlin Chen. Last Updated: March. 2018</copyright>
     <lastBuildDate>Wed, 21 Jun 2017 01:07:22 +0800</lastBuildDate>
-    <atom:link href="/home/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://llgeek.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://llgeek.github.io/home/about/</link>
+      <pubDate>Wed, 21 Jun 2017 01:07:22 +0800</pubDate>
+      
+      <guid>https://llgeek.github.io/home/about/</guid>
+      <description>Biography Greetings! My name is Linlin Chen. I am now a third year Ph.D student at Department of Computer Science, Illinois Institute of Technology(IIT). I am supervised by Prof. Xiang-Yang Li and Prof. Peng-Jun Wan. My research interests span in data privacy &amp;amp; security, deep learning, machine learning, mobile computing. I like taking challenges and solving practical problems. I received my Bachelor of Engineering degree from the School of Computer Science, University of Science and Technology of China(USTC).</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://llgeek.github.io/home/publications/</link>
+      <pubDate>Wed, 21 Jun 2017 11:20:46 +0800</pubDate>
+      
+      <guid>https://llgeek.github.io/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experience</title>
+      <link>https://llgeek.github.io/home/experience/</link>
+      <pubDate>Wed, 21 Jun 2017 11:25:15 +0800</pubDate>
+      
+      <guid>https://llgeek.github.io/home/experience/</guid>
+      <description>Research Assistant  WINET Lab lab @ IIT, supervised by Peng-Jun Wan, Aug. 2016 - Present WINET Lab lab @ IIT, supervised by Prof. Xiang-Yang Li, Aug. 2015 - May. 2016 LINKE Lab @ USTC, , Supervised by Prof. Xiang-Yang Li, Summer, 2016 &amp;amp; 2017 UBRI Lab @ USTC, Supervised by Prof. Huanhuan Chen, Sept. 2013 - Dec. 2014 Multi-Agent System Lab @ USTC, Supervised by Prof. Xiaoping Chen, Sept.</description>
+    </item>
+    
+    <item>
+      <title>Professional &lt;br&gt; Activities</title>
+      <link>https://llgeek.github.io/home/activities/</link>
+      <pubDate>Wed, 21 Jun 2017 11:25:29 +0800</pubDate>
+      
+      <guid>https://llgeek.github.io/home/activities/</guid>
+      <description> Conference Reviewer of:  NIPS, 2016 IPCCC, 2016 BigCom, 2016 &amp;amp; 2017 MSN, 2016 CBD, 2017  </description>
+    </item>
+    
+    <item>
+      <title>Materials &lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp; &lt;br&gt; Resources</title>
+      <link>https://llgeek.github.io/home/materials/</link>
+      <pubDate>Wed, 21 Jun 2017 11:25:53 +0800</pubDate>
+      
+      <guid>https://llgeek.github.io/home/materials/</guid>
+      <description>&amp;copy FYI: The following materials are copyrighted by the corresponding publishers. I download them from the Internet and attach some PDF files only for self-studying and research. If any violations exist, please contact me to delete.  1. Papers &amp;nbsp;&amp;nbsp;&amp;nbsp; 1.1 Deep Learning &amp;nbsp;&amp;nbsp;&amp;nbsp; 1.2 Data Privacy &amp;amp; Security &amp;nbsp;&amp;nbsp;&amp;nbsp; 1.3 Mobile Computing &amp;nbsp;&amp;nbsp;&amp;nbsp; 1.4 Learning &amp;amp; Security 2. Books &amp;nbsp;&amp;nbsp;&amp;nbsp; 2.1 Deep Learning &amp;nbsp;&amp;nbsp;&amp;nbsp; 2.2 Algorithms &amp;nbsp;&amp;nbsp;&amp;nbsp; 2.3 Privacy &amp;amp; Security 3.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://llgeek.github.io/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://llgeek.github.io/home/contact/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

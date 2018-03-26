@@ -6,9 +6,20 @@
     <description>Recent content in Publications on Linlin Chen @ IIT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; Linlin Chen. Last Updated: Jan. 2018</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/publication/" rel="self" type="application/rss+xml" />
+    <copyright>&amp;copy; Linlin Chen. Last Updated: March. 2018</copyright>
+    <lastBuildDate>Mon, 11 Jun 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://llgeek.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Crowdlearning: Crowded Deep Learning with Data Privacy</title>
+      <link>https://llgeek.github.io/publication/crowdlearning/</link>
+      <pubDate>Mon, 11 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://llgeek.github.io/publication/crowdlearning/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>VoiceMask: Anonymize and Sanitize Voice Input on Mobile Devices</title>
